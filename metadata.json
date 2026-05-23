@@ -1,0 +1,6 @@
+{
+  "name": "Collaboration Suite",
+  "description": "Enterprise collaboration platform with real-time messaging, channels, and project/task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
